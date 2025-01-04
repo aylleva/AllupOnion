@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0587C8A8-474F-4CC2-B099-DE4CD2B36751}|presentation\\AllupOnion.API\\AllupOnion.API.csproj|c:\\users\\user\\desktop\\api\\alluponion\\presentation\\alluponion.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0587C8A8-474F-4CC2-B099-DE4CD2B36751}|presentation\\AllupOnion.API\\AllupOnion.API.csproj|solutionrelative:presentation\\alluponion.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42307089-9051-4B73-912A-1BDCF62E6BF6}|src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj|c:\\users\\user\\desktop\\api\\alluponion\\src\\infrastructure\\alluponion.persistence\\serviceregistration\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42307089-9051-4B73-912A-1BDCF62E6BF6}|src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj|solutionrelative:src\\infrastructure\\alluponion.persistence\\serviceregistration\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0587C8A8-474F-4CC2-B099-DE4CD2B36751}|presentation\\AllupOnion.API\\AllupOnion.API.csproj|c:\\users\\user\\desktop\\api\\alluponion\\presentation\\alluponion.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0587C8A8-474F-4CC2-B099-DE4CD2B36751}|presentation\\AllupOnion.API\\AllupOnion.API.csproj|solutionrelative:presentation\\alluponion.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42307089-9051-4B73-912A-1BDCF62E6BF6}|src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj|c:\\users\\user\\desktop\\api\\alluponion\\src\\infrastructure\\alluponion.persistence\\configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42307089-9051-4B73-912A-1BDCF62E6BF6}|src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj|solutionrelative:src\\infrastructure\\alluponion.persistence\\configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42307089-9051-4B73-912A-1BDCF62E6BF6}|src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj|c:\\users\\user\\desktop\\api\\alluponion\\src\\infrastructure\\alluponion.persistence\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42307089-9051-4B73-912A-1BDCF62E6BF6}|src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj|solutionrelative:src\\infrastructure\\alluponion.persistence\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42307089-9051-4B73-912A-1BDCF62E6BF6}|src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj|c:\\users\\user\\desktop\\api\\alluponion\\src\\infrastructure\\alluponion.persistence\\configurations\\productcolorsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42307089-9051-4B73-912A-1BDCF62E6BF6}|src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj|solutionrelative:src\\infrastructure\\alluponion.persistence\\configurations\\productcolorsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42307089-9051-4B73-912A-1BDCF62E6BF6}|src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj|c:\\users\\user\\desktop\\api\\alluponion\\src\\infrastructure\\alluponion.persistence\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42307089-9051-4B73-912A-1BDCF62E6BF6}|src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj|solutionrelative:src\\infrastructure\\alluponion.persistence\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42307089-9051-4B73-912A-1BDCF62E6BF6}|src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj|c:\\users\\user\\desktop\\api\\alluponion\\src\\infrastructure\\alluponion.persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42307089-9051-4B73-912A-1BDCF62E6BF6}|src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj|solutionrelative:src\\infrastructure\\alluponion.persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42307089-9051-4B73-912A-1BDCF62E6BF6}|src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj|c:\\users\\user\\desktop\\api\\alluponion\\src\\infrastructure\\alluponion.persistence\\alluponion.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42307089-9051-4B73-912A-1BDCF62E6BF6}|src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj|solutionrelative:src\\infrastructure\\alluponion.persistence\\alluponion.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C915B4D-0DA2-41E2-A698-2402DBB2CB0F}|src\\Core\\AllupOnion.Domain\\AllupOnion.Domain.csproj|c:\\users\\user\\desktop\\api\\alluponion\\src\\core\\alluponion.domain\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C915B4D-0DA2-41E2-A698-2402DBB2CB0F}|src\\Core\\AllupOnion.Domain\\AllupOnion.Domain.csproj|solutionrelative:src\\core\\alluponion.domain\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C915B4D-0DA2-41E2-A698-2402DBB2CB0F}|src\\Core\\AllupOnion.Domain\\AllupOnion.Domain.csproj|c:\\users\\user\\desktop\\api\\alluponion\\src\\core\\alluponion.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C915B4D-0DA2-41E2-A698-2402DBB2CB0F}|src\\Core\\AllupOnion.Domain\\AllupOnion.Domain.csproj|solutionrelative:src\\core\\alluponion.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C915B4D-0DA2-41E2-A698-2402DBB2CB0F}|src\\Core\\AllupOnion.Domain\\AllupOnion.Domain.csproj|c:\\users\\user\\desktop\\api\\alluponion\\src\\core\\alluponion.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C915B4D-0DA2-41E2-A698-2402DBB2CB0F}|src\\Core\\AllupOnion.Domain\\AllupOnion.Domain.csproj|solutionrelative:src\\core\\alluponion.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C915B4D-0DA2-41E2-A698-2402DBB2CB0F}|src\\Core\\AllupOnion.Domain\\AllupOnion.Domain.csproj|c:\\users\\user\\desktop\\api\\alluponion\\src\\core\\alluponion.domain\\entities\\productcolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C915B4D-0DA2-41E2-A698-2402DBB2CB0F}|src\\Core\\AllupOnion.Domain\\AllupOnion.Domain.csproj|solutionrelative:src\\core\\alluponion.domain\\entities\\productcolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C915B4D-0DA2-41E2-A698-2402DBB2CB0F}|src\\Core\\AllupOnion.Domain\\AllupOnion.Domain.csproj|c:\\users\\user\\desktop\\api\\alluponion\\src\\core\\alluponion.domain\\entities\\base\\basenamebleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C915B4D-0DA2-41E2-A698-2402DBB2CB0F}|src\\Core\\AllupOnion.Domain\\AllupOnion.Domain.csproj|solutionrelative:src\\core\\alluponion.domain\\entities\\base\\basenamebleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C915B4D-0DA2-41E2-A698-2402DBB2CB0F}|src\\Core\\AllupOnion.Domain\\AllupOnion.Domain.csproj|c:\\users\\user\\desktop\\api\\alluponion\\src\\core\\alluponion.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C915B4D-0DA2-41E2-A698-2402DBB2CB0F}|src\\Core\\AllupOnion.Domain\\AllupOnion.Domain.csproj|solutionrelative:src\\core\\alluponion.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\presentation\\AllupOnion.API\\Program.cs",
+              "RelativeDocumentMoniker": "presentation\\AllupOnion.API\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\presentation\\AllupOnion.API\\Program.cs",
+              "RelativeToolTip": "presentation\\AllupOnion.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:22:33.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\presentation\\AllupOnion.API\\appsettings.json",
+              "RelativeDocumentMoniker": "presentation\\AllupOnion.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\presentation\\AllupOnion.API\\appsettings.json",
+              "RelativeToolTip": "presentation\\AllupOnion.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T15:21:49.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Infrastructure\\AllupOnion.Persistence\\ServiceRegistration\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\AllupOnion.Persistence\\ServiceRegistration\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Infrastructure\\AllupOnion.Persistence\\ServiceRegistration\\ServiceRegistration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\AllupOnion.Persistence\\ServiceRegistration\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:18:56.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductColorsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Infrastructure\\AllupOnion.Persistence\\Configurations\\ProductColorsConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\AllupOnion.Persistence\\Configurations\\ProductColorsConfiguration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Infrastructure\\AllupOnion.Persistence\\Configurations\\ProductColorsConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\AllupOnion.Persistence\\Configurations\\ProductColorsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:58:32.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Infrastructure\\AllupOnion.Persistence\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\AllupOnion.Persistence\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Infrastructure\\AllupOnion.Persistence\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\AllupOnion.Persistence\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:58:15.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Infrastructure\\AllupOnion.Persistence\\Configurations\\ColorConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\AllupOnion.Persistence\\Configurations\\ColorConfiguration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Infrastructure\\AllupOnion.Persistence\\Configurations\\ColorConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\AllupOnion.Persistence\\Configurations\\ColorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:58:04.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Infrastructure\\AllupOnion.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\AllupOnion.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Infrastructure\\AllupOnion.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\AllupOnion.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:56:59.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Infrastructure\\AllupOnion.Persistence\\Contexts\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\AllupOnion.Persistence\\Contexts\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Infrastructure\\AllupOnion.Persistence\\Contexts\\AppDBContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\AllupOnion.Persistence\\Contexts\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:06:37.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllupOnion.Persistence",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj",
+              "RelativeToolTip": "src\\Infrastructure\\AllupOnion.Persistence\\AllupOnion.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T14:05:58.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductColors.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Core\\AllupOnion.Domain\\Entities\\ProductColors.cs",
+              "RelativeDocumentMoniker": "src\\Core\\AllupOnion.Domain\\Entities\\ProductColors.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Core\\AllupOnion.Domain\\Entities\\ProductColors.cs",
+              "RelativeToolTip": "src\\Core\\AllupOnion.Domain\\Entities\\ProductColors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:53:48.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Core\\AllupOnion.Domain\\Entities\\Color.cs",
+              "RelativeDocumentMoniker": "src\\Core\\AllupOnion.Domain\\Entities\\Color.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Core\\AllupOnion.Domain\\Entities\\Color.cs",
+              "RelativeToolTip": "src\\Core\\AllupOnion.Domain\\Entities\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:53:17.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Core\\AllupOnion.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "src\\Core\\AllupOnion.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Core\\AllupOnion.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "src\\Core\\AllupOnion.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:51:03.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Core\\AllupOnion.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "src\\Core\\AllupOnion.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Core\\AllupOnion.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "src\\Core\\AllupOnion.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:44:24.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseNamebleEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Core\\AllupOnion.Domain\\Entities\\Base\\BaseNamebleEntity.cs",
+              "RelativeDocumentMoniker": "src\\Core\\AllupOnion.Domain\\Entities\\Base\\BaseNamebleEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Core\\AllupOnion.Domain\\Entities\\Base\\BaseNamebleEntity.cs",
+              "RelativeToolTip": "src\\Core\\AllupOnion.Domain\\Entities\\Base\\BaseNamebleEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:41:10.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Core\\AllupOnion.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\Core\\AllupOnion.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\AllupOnion\\src\\Core\\AllupOnion.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "src\\Core\\AllupOnion.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:40:58.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

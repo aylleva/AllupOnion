@@ -1,0 +1,12 @@
+C:\Users\II novbe\Desktop\AllupOnion\src\Core\AllupOnion.Domain\bin\Debug\net8.0\AllupOnion.Domain.deps.json
+C:\Users\II novbe\Desktop\AllupOnion\src\Core\AllupOnion.Domain\bin\Debug\net8.0\AllupOnion.Domain.dll
+C:\Users\II novbe\Desktop\AllupOnion\src\Core\AllupOnion.Domain\bin\Debug\net8.0\AllupOnion.Domain.pdb
+C:\Users\II novbe\Desktop\AllupOnion\src\Core\AllupOnion.Domain\obj\Debug\net8.0\AllupOnion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\AllupOnion\src\Core\AllupOnion.Domain\obj\Debug\net8.0\AllupOnion.Domain.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\AllupOnion\src\Core\AllupOnion.Domain\obj\Debug\net8.0\AllupOnion.Domain.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\AllupOnion\src\Core\AllupOnion.Domain\obj\Debug\net8.0\AllupOnion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\AllupOnion\src\Core\AllupOnion.Domain\obj\Debug\net8.0\AllupOnion.Domain.sourcelink.json
+C:\Users\II novbe\Desktop\AllupOnion\src\Core\AllupOnion.Domain\obj\Debug\net8.0\AllupOnion.Domain.dll
+C:\Users\II novbe\Desktop\AllupOnion\src\Core\AllupOnion.Domain\obj\Debug\net8.0\refint\AllupOnion.Domain.dll
+C:\Users\II novbe\Desktop\AllupOnion\src\Core\AllupOnion.Domain\obj\Debug\net8.0\AllupOnion.Domain.pdb
+C:\Users\II novbe\Desktop\AllupOnion\src\Core\AllupOnion.Domain\obj\Debug\net8.0\ref\AllupOnion.Domain.dll

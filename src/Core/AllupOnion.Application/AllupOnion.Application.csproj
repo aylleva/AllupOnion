@@ -10,4 +10,8 @@
     <ProjectReference Include="..\AllupOnion.Domain\AllupOnion.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Abstraction\Services\" />
+  </ItemGroup>
+
 </Project>

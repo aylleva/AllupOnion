@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AllupOnion.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f996603accebe410bae13a753c6d8df5c4f5d0ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("AllupOnion.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AllupOnion.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

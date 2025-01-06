@@ -1,0 +1,12 @@
+C:\Users\II novbe\Desktop\AllupOnion\src\Infrastructure\AllupOnion.Infrastructure\bin\Debug\net8.0\AllupOnion.Infrastructure.deps.json
+C:\Users\II novbe\Desktop\AllupOnion\src\Infrastructure\AllupOnion.Infrastructure\bin\Debug\net8.0\AllupOnion.Infrastructure.dll
+C:\Users\II novbe\Desktop\AllupOnion\src\Infrastructure\AllupOnion.Infrastructure\bin\Debug\net8.0\AllupOnion.Infrastructure.pdb
+C:\Users\II novbe\Desktop\AllupOnion\src\Infrastructure\AllupOnion.Infrastructure\obj\Debug\net8.0\AllupOnion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\AllupOnion\src\Infrastructure\AllupOnion.Infrastructure\obj\Debug\net8.0\AllupOnion.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\AllupOnion\src\Infrastructure\AllupOnion.Infrastructure\obj\Debug\net8.0\AllupOnion.Infrastructure.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\AllupOnion\src\Infrastructure\AllupOnion.Infrastructure\obj\Debug\net8.0\AllupOnion.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\AllupOnion\src\Infrastructure\AllupOnion.Infrastructure\obj\Debug\net8.0\AllupOnion.Infrastructure.sourcelink.json
+C:\Users\II novbe\Desktop\AllupOnion\src\Infrastructure\AllupOnion.Infrastructure\obj\Debug\net8.0\AllupOnion.Infrastructure.dll
+C:\Users\II novbe\Desktop\AllupOnion\src\Infrastructure\AllupOnion.Infrastructure\obj\Debug\net8.0\refint\AllupOnion.Infrastructure.dll
+C:\Users\II novbe\Desktop\AllupOnion\src\Infrastructure\AllupOnion.Infrastructure\obj\Debug\net8.0\AllupOnion.Infrastructure.pdb
+C:\Users\II novbe\Desktop\AllupOnion\src\Infrastructure\AllupOnion.Infrastructure\obj\Debug\net8.0\ref\AllupOnion.Infrastructure.dll
